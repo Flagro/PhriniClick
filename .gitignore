@@ -65,3 +65,6 @@ fastlane/test_output
 # PhriniClick specific:
 # Sounds are temporarily under moderation to verify they are not copyrighted
 Sounds/
+
+# xcodeproj is under moderation to verify it does not contain any sensitive information
+*.xcodeproj
