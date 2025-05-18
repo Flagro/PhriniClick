@@ -60,3 +60,8 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+
+# PhriniClick specific:
+# Sounds are temporarily under moderation to verify they are not copyrighted
+Sounds/
